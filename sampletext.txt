@@ -1,1 +1,8 @@
-hi today is 27april and i know most of how to push files on my own
+hi today is 27april and i know most of how to push files on my own.
+
+Commit 2: what happened is i made a Newbranch1 but to push i used the normal 3 commands that github gives, namely
+git branch -M main
+git remote add origin url
+git push -u origin main
+
+i am unsure what happened but i think the first command either switched me to main or it deleted Newbranch1.
